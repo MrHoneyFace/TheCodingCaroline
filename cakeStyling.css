@@ -1,8 +1,8 @@
 body {
-    height: 100vh;
+    height: 100%;
     width: 700px;
     margin: 50px auto;
-    background: linear-gradient(to bottom, #00ff2a91, #002fff91, #9900ff96);
+    background: linear-gradient(to bottom, #00ff2a91, #002fff91, #9900ff96, #00ff2a91);
     padding: 50px;
     border: 5px dashed #9900ff;
 }
