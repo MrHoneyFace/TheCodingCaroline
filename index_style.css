@@ -2,7 +2,7 @@ body {
     height: 100vh;
     width: 700px;
     margin: 0 auto;
-    background: linear-gradient(to bottom, #0003b4, #ff87e5, #ffff00, #ff87e5, #0003b4);
+    background: linear-gradient(to bottom, #0003b4, #ff87e5, #ffff00);
 }
 
 h2 {

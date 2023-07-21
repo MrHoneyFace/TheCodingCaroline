@@ -1,9 +1,9 @@
 body {
-    /* height: 100vh; */
+    height: 100vh;
     margin: 0 auto;
     width: 700px;
     align-items: center;
-    background: linear-gradient(to left, #00aeff,
+    background: linear-gradient(to bottom, #00aeff,
             #09ff00, #8f5305);
 }
 
