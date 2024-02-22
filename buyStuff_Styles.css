@@ -1,0 +1,45 @@
+body {
+    height: 100vh;
+    width: 700px;
+    margin: 0 auto;
+    background: linear-gradient(to bottom, #d012ff, #c012ff, #b012ff, #a012ff);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 50px 50px 1fr;
+    row-gap: 20px;
+    column-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #008b8b;
+    background-color: #ffa43d;
+    justify-self: stretch;
+    align-self: start;
+    grid-column: 1 / -1;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #008b8b;
+    background-color: #ffa43d;
+    justify-self: stretch;
+    align-self: start;
+    grid-column: 1 / -1;
+    text-align: center;
+}
+
+.mainScreen {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #15008b;
+    justify-self: center;
+    align-self: center;
+    grid-column: 1 / -1;
+    text-align: center;
+}
